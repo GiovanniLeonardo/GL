@@ -1,6 +1,10 @@
-* {
+@media screen and (max-width: 481px){
+}
+* 
+{
     box-sizing: border-box;
    
+    
 }
 
 body{
@@ -70,7 +74,7 @@ h2, h3 {
 }
 
 nav {
-    float: right;
+    float: left;
     margin-top: 25px;
 }
 
